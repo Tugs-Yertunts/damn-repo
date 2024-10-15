@@ -1,4 +1,4 @@
-Welcome to my repository zaluuchuud!
+Welcome to my repository zaluuchuud! be inclusive benchod!!
 
 <!---
 Tugs-Yertunts/daradara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
