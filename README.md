@@ -1,4 +1,4 @@
-This readme huh?
+Welcome to my repository zaluuchuud!
 
 <!---
 Tugs-Yertunts/daradara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
