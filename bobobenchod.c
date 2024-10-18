@@ -1,5 +1,12 @@
 int main() {
-	printf("Otgoo yagaad??");
-        printf("because i said so");
+int a;
+	
+	if (a > 0 )
+printf("Shinra Tensei!")
+	else
+pritf("Sexy no jutsu!")
+
 return 0;
 } 
+
+
